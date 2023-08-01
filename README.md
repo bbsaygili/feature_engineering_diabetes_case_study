@@ -1,4 +1,4 @@
-##Veri Seti Hikayesi##
+## Veri Seti Hikayesi ##
 
 
 Veri seti ABD'deki Ulusal Diyabet-Sindirim-Böbrek Hastalıkları Enstitüleri'nde tutulan büyük veri setinin parçasıdır. ABD'deki
