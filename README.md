@@ -1,22 +1,22 @@
-## Veri Seti Hikayesi ##
+## Dataset Story ##
 
 
-Veri seti ABD'deki Ulusal Diyabet-Sindirim-Böbrek Hastalıkları Enstitüleri'nde tutulan büyük veri setinin parçasıdır. ABD'deki
-Arizona Eyaleti'nin en büyük 5. şehri olan Phoenix şehrinde yaşayan 21 yaş ve üzerinde olan Pima Indian kadınları üzerinde
-yapılan diyabet araştırması için kullanılan verilerdir.
-Hedef değişken "outcome" olarak belirtilmiş olup; 1 diyabet test sonucunun pozitif oluşunu, 0 ise negatif oluşunu belirtmektedir.
+The dataset is part of the large dataset held at the National Institutes of Diabetes-Digestive-Kidney Diseases in the USA. in the USA
+On Pima Indian women aged 21 and over living in Phoenix, the 5th largest city in the State of Arizona.
+Data used for diabetes research.
+The target variable is specified as "outcome"; 1 indicates positive diabetes test result, 0 indicates negative.
 
 
 
-*  **Pregnancies:** Hamilelik sayısı
-*  **Glucose:** Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
-*  **Blood Pressure:** Kan Basıncı (Küçük tansiyon) (mm Hg)
-*  **SkinThickness:** Cilt Kalınlığı
-*  **Insulin:** 2 saatlik serum insülini (mu U/ml)
-*  **DiabetesPedigreeFunction:** Fonksiyon (Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu)
-*  **BMI:** Vücut kitle endeksi
-*  **Age:** Yaş (yıl)
-*  **Outcome:** Hastalığa sahip (1) ya da değil (0)
+* **Pregnancies:** Number of pregnancies
+* **Glucose:** 2-hour plasma glucose concentration in oral glucose tolerance test
+* **Blood Pressure:** Blood Pressure (mm Hg)
+* **SkinThickness:** Skin Thickness
+* **Insulin:** 2-hour serum insulin (mu U/ml)
+* **DiabetesPedigreeFunction:** Function (2 hour plasma glucose concentration in oral glucose tolerance test)
+* **BMI:** Body mass index
+* **Age:** Age (years)
+* **Outcome:** Have the disease (1) or not (0)
 
 
 
